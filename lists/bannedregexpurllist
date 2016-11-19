@@ -20,10 +20,10 @@
 (bangbros|pussylip|playmate|pornstar|sexdream|showgirl|softcore|striptease)
 
 #SoftCore phrases - more likely to overblock - possibly on news sites
-#(incest|obscene|pedophil|pedofil)
+(incest|obscene|pedophil|pedofil|porn)
 
 #Photo Modeling - supplied by David Burkholder
-#(male|m[ae]n|boy|girl|beaut|agen[ct]|glam)+.*(model|talent)
+(male|m[ae]n|boy|girl|beaut|agen[ct]|glam)+.*(model|talent)
 
 # The following will help to block explicit media files (images and video)
 (sex|fuck|boob|cunt|fetish|tits|anal|hooter|asses|shemale|submission|porn|xxx|busty|knockers|slut|nude|naked|pussy)+.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)

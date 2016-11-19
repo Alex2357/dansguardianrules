@@ -43,7 +43,7 @@
 
 # The following banned phraselists are included in the default DG distribution.
 
-#.Include</etc/dansguardian/lists/phraselists/pornography/banned>
+#ak doesn't work at all  .Include</etc/dansguardian/lists/phraselists/pornography/banned>
 ##.Include</etc/dansguardian/lists/phraselists/pornography/banned_portuguese>
 
 #.Include</etc/dansguardian/lists/phraselists/illegaldrugs/banned>
@@ -57,7 +57,13 @@
 #ak this works fine 
 .Include</etc/dansguardian/lists/phraselists/games/weighted>
 
-#<games>
-#<game>
+.Include</etc/dansguardian/lists/phraselists/pornography/weighted_russian>
+.Include</etc/dansguardian/lists/phraselists/pornography/weighted>
+<games>
+<game>
 <sex>
 <csgo>
+#<counter>
+<xxx>
+<porn>
+
