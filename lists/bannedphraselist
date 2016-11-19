@@ -55,7 +55,7 @@
 
 
 #ak this works fine 
-#.Include</etc/dansguardian/lists/phraselists/games/weighted>
+.Include</etc/dansguardian/lists/phraselists/games/weighted>
 
 #<games>
 #<game>
