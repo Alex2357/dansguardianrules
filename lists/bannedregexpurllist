@@ -1,3 +1,10 @@
+
+
+#counter strike
+(cs|go|steam|counter|strike|community)+.*(cs|go|steam|counter|strike|community)+
+
+
+
 #Banned URLs based on Regular Expressions
 #
 # E.g. 'sex' would block sex.com and middlesex.com etc
