@@ -3,6 +3,8 @@
 #counter strike
 (cs|go|steam|counter|strike|community)+.*(cs|go|steam|counter|strike|community)+
 
+#keepvid & youtube watching video. THIS IS REALLY COOL!!! site is open but doesn't play video. So he may do requests for certain videos.
+(googlevideo|keepvid)
 
 
 #Banned URLs based on Regular Expressions
